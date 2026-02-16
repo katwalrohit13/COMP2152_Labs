@@ -16,3 +16,6 @@ print("X2:", x2, ", Y2:", y2)
 
 distance = ((x2 - x1) ** 2 + (y2 - y1) ** 2) ** 0.5
 print("Distance between the Points :", distance)
+
+char_tuple = tuple("PYTHON")
+

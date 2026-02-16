@@ -15,3 +15,5 @@ print("Bob's updated number:", contacts["Bob"])
 del contacts["Charlie"]
 print("Contacts after deleting Charlie:", contacts)
 print("All names: ", contacts.keys())
+print("All numbers: ", contacts.values())
+print("Total contact ", len(contacts))
