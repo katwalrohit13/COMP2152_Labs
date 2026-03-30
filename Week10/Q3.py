@@ -1,6 +1,6 @@
 # ============================================================
 # WEEK 10 LAB — Q3: SECURITY AUDIT LOG + UNIT TESTS
-# COMP2152 — Luis Tello
+# COMP2152 — Rohit Kumar
 # ============================================================
 
 import sqlite3
